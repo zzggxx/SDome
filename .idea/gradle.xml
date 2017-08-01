@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidAnnotationsDemo" />
+            <option value="$PROJECT_DIR$/ButterknifeDemo" />
+            <option value="$PROJECT_DIR$/Dagger2Demo" />
+            <option value="$PROJECT_DIR$/FrescoDemo" />
+            <option value="$PROJECT_DIR$/MobDemo" />
+            <option value="$PROJECT_DIR$/OkHttpDemo" />
+            <option value="$PROJECT_DIR$/OkHttpUtilsDemo" />
+            <option value="$PROJECT_DIR$/PicassoDemo" />
+            <option value="$PROJECT_DIR$/RetrofitDemo" />
+            <option value="$PROJECT_DIR$/RxJavaDemo" />
+            <option value="$PROJECT_DIR$/Test" />
+            <option value="$PROJECT_DIR$/UILDemo" />
+            <option value="$PROJECT_DIR$/VolleyDemo" />
+            <option value="$PROJECT_DIR$/baidutjdemo" />
+            <option value="$PROJECT_DIR$/rxretrofit" />
+            <option value="$PROJECT_DIR$/volleylib" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

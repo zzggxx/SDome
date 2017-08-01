@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidAnnotationsDemo/AndroidAnnotationsDemo.iml" filepath="$PROJECT_DIR$/AndroidAnnotationsDemo/AndroidAnnotationsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ButterknifeDemo/ButterknifeDemo.iml" filepath="$PROJECT_DIR$/ButterknifeDemo/ButterknifeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dagger2Demo/Dagger2Demo.iml" filepath="$PROJECT_DIR$/Dagger2Demo/Dagger2Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrescoDemo/FrescoDemo.iml" filepath="$PROJECT_DIR$/FrescoDemo/FrescoDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobDemo/MobDemo.iml" filepath="$PROJECT_DIR$/MobDemo/MobDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OSDemo.iml" filepath="$PROJECT_DIR$/OSDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkHttpDemo/OkHttpDemo.iml" filepath="$PROJECT_DIR$/OkHttpDemo/OkHttpDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkHttpUtilsDemo/OkHttpUtilsDemo.iml" filepath="$PROJECT_DIR$/OkHttpUtilsDemo/OkHttpUtilsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PicassoDemo/PicassoDemo.iml" filepath="$PROJECT_DIR$/PicassoDemo/PicassoDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RetrofitDemo/RetrofitDemo.iml" filepath="$PROJECT_DIR$/RetrofitDemo/RetrofitDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RxJavaDemo/RxJavaDemo.iml" filepath="$PROJECT_DIR$/RxJavaDemo/RxJavaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UILDemo/UILDemo.iml" filepath="$PROJECT_DIR$/UILDemo/UILDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VolleyDemo/VolleyDemo.iml" filepath="$PROJECT_DIR$/VolleyDemo/VolleyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baidutjdemo/baidutjdemo.iml" filepath="$PROJECT_DIR$/baidutjdemo/baidutjdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxretrofit/rxretrofit.iml" filepath="$PROJECT_DIR$/rxretrofit/rxretrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volleylib/volleylib.iml" filepath="$PROJECT_DIR$/volleylib/volleylib.iml" />
+    </modules>
+  </component>
+</project>
